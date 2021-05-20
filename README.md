@@ -3,3 +3,5 @@ https://user-images.githubusercontent.com/72567767/118841372-2d68b300-b8c0-11eb-
 
 # Group-project-overview
 Contains the overview of individual contributions,post mortem and presenation for the group project (Lv4-SEM2)
+
+This is a university of suffolk students project.
